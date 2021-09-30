@@ -1,1 +1,9 @@
 /* custom css goes here */
+.nav-link {
+  color: #5900fe !important;
+  font-weight: 600;
+}
+.navbar-text {
+  font-size: 10px;
+  color: #5900fe;
+}
