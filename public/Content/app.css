@@ -20,3 +20,12 @@
   border-color: #5900fe;
   opacity: 1;
 }
+
+.nav-item {
+  opacity: 0.8;
+}
+.nav-item:focus,
+.nav-item:hover,
+.nav-item:active {
+  opacity: 1 !important;
+}
