@@ -7,3 +7,16 @@
   font-size: 10px;
   color: #5900fe;
 }
+
+.btn-primary {
+  background-color: #5900fe;
+  border-color: #5900fe;
+  opacity: 0.8;
+}
+.btn-primary.active,
+.btn-primary:focus,
+.btn-primary:hover {
+  background-color: #5900fe !important;
+  border-color: #5900fe;
+  opacity: 1;
+}
