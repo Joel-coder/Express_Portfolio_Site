@@ -18,7 +18,7 @@ router.get("/about", function (req, res, next) {
 
 /* GET project page. */
 router.get("/project", function (req, res, next) {
-  res.render("index", { title: "project" });
+  res.render("project", { title: "Project" });
 });
 
 /* GET Services page. */
